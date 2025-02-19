@@ -1,12 +1,12 @@
 import React from 'react'
 import './Hero.css'
-import Picture1 from '../../assets/Picture1.png'
+import Picture2 from '../../assets/Picture2.jpg'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const Hero = () => {
   return (
     <div id='home' className='hero'>
-      <img src={Picture1} alt="" className='profile-img' />
+      <img src={Picture2} alt="" className='profile-img' />
       {/* <img src={Picture1} alt="" className='profile-img' /> */}
 
       <h1><span>I'm Dnyaneshwari Nagapure,</span> a professional frontend developer.</h1>

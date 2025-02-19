@@ -89,3 +89,28 @@
         gap: 20px;
     }
 }
+.stylish-dv {
+    font-family: 'Cursive', 'Brush Script MT', sans-serif;
+    font-size: 100px;
+    color: transparent;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.stylish-dv span {
+    font-size: 1.5em;
+}
+
+.logo-container {
+    text-align: center;
+    margin-top: 100px;
+    background-color: #001030;
+    padding: 50px;
+    border-radius: 50%;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
