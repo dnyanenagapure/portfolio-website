@@ -8,17 +8,17 @@ import bank1 from '../assets/bank1.jpg'
 const mywork_data = [
     {
         w_no:1,
-        w_name:"Web design",
+        w_name:"SIDBI Bank",
         w_img:bank
     },
     {
         w_no:2,
-        w_name:"Web design",
+        w_name:"Expense Tracker App",
         w_img:project1_img
     },
     {
         w_no:3,
-        w_name:"Web design",
+        w_name:"IDFC Bank",
         w_img:bank1
     },
 ]
